@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "barrio": "San Antón",
+      "precio_m2": 1450,
+      "calificacion": "B",
+      "img": "/img/san anton.jfif"
+    },
+    {
+      "id": 2,
+      "barrio": "Barrio del Carmen",
+      "precio_m2": 1550,
+      "calificacion": "B+",
+      "img": "/img/carmen.jpg"
+    },
+    {
+      "id": 3,
+      "barrio": "Vistabella",
+      "precio_m2": 1600,
+      "calificacion": "B+",
+      "img": "/img/vistabella.jfif"
+    },
+    {
+      "id": 4,
+      "barrio": "La Flota",
+      "precio_m2": 1800,
+      "calificacion": "A-",
+      "img": "/img/flota.jfif"
+    },
+    {
+      "id": 5,
+      "barrio": "El Ranero",
+      "precio_m2": 1700,
+      "calificacion": "A-",
+      "img": "/img/ranero.jfif"
+    },
+    {
+      "id": 6,
+      "barrio": "Infante Juan Manuel",
+      "precio_m2": 1650,
+      "calificacion": "B+",
+      "img": "/img/infante.jfif"
+    },
+    {
+      "id": 7,
+      "barrio": "Santa María de Gracia",
+      "precio_m2": 1750,
+      "calificacion": "A-",
+      "img": "/img/gracia.jpg"
+    },
+    {
+      "id": 8,
+      "barrio": "Espinardo",
+      "precio_m2": 1300,
+      "calificacion": "C+",
+      "img": "/img/espina.jfif"
+    },
+    {
+      "id": 9,
+      "barrio": "San Andrés",
+      "precio_m2": 1400,
+      "calificacion": "B",
+      "img": "/img/andres.jfif"
+    },
+    {
+      "id": 10,
+      "barrio": "La Fama",
+      "precio_m2": 1350,
+      "calificacion": "B",
+      "img": "/img/fama.jfif"
+    }
+  ]
+  
